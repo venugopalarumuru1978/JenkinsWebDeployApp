@@ -1,5 +1,16 @@
+<!DOCTYPE html>
 <html>
-<body>
-<h2>Hello World!</h2>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body bgcolor="green" text="yellow">
+<p style="text-align:center">
+	<a href="index.jsp">Home</a>
+	&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="HomePage.html">DemoPage</a>
+</p>
+<hr />
+<h1>Index Page</h1>
 </body>
 </html>
